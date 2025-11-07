@@ -1,0 +1,9 @@
+function Sum() {
+    const a=5;
+    const b=7;
+    let c = a + b; // c can change if needed
+
+    return <h2>Sum: {c}<</h2>;
+}
+export default Sum;
+}
